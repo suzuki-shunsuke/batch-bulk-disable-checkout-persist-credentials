@@ -35,6 +35,18 @@ e.g.
 bash merge.sh aquaproj
 ```
 
+## Update prs created by Renovate
+
+```sh
+bash update-ghalint.sh <org or user name>
+```
+
+e.g.
+
+```sh
+bash update-ghalint.sh aquaproj
+```
+
 ## LICENSE
 
 [MIT](LICENSE)
