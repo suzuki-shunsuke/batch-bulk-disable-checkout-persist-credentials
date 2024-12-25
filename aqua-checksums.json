@@ -1,0 +1,69 @@
+{
+  "checksums": [
+    {
+      "id": "github_release/github.com/lindell/multi-gitter/v0.54.1/multi-gitter_0.54.1_Darwin_ARM64.tar.gz",
+      "checksum": "02E30998EFE457D4C38195593BC4B174330583125FDB123453850CCC975BBBBE",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/lindell/multi-gitter/v0.54.1/multi-gitter_0.54.1_Darwin_x86_64.tar.gz",
+      "checksum": "A10C9F12C9EAA788B03A5886775B5391DE9B56EEE87564EC3D1A7382EF4AFB7B",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/lindell/multi-gitter/v0.54.1/multi-gitter_0.54.1_Linux_ARM64.tar.gz",
+      "checksum": "499787A9AF97D91D8D9FA69A1014BCDE7FCC186D4A33559D43757070944ECAEA",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/lindell/multi-gitter/v0.54.1/multi-gitter_0.54.1_Linux_x86_64.tar.gz",
+      "checksum": "5EDE091330539C793096CF7AA2C911CB91418008BC9C8005EF477069C8697409",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/lindell/multi-gitter/v0.54.1/multi-gitter_0.54.1_Windows_ARM64.tar.gz",
+      "checksum": "25C318FA13055813338FCAD7E10BF96D4EF9F8BFC2B31D7F591390E79CA70CC7",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/lindell/multi-gitter/v0.54.1/multi-gitter_0.54.1_Windows_x86_64.tar.gz",
+      "checksum": "70B121E1D6F0A351A956835731FB1488F77CB1C46D04E9D237CD85BB1EBDACF2",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/suzuki-shunsuke/disable-checkout-persist-credentials/v0.1.0/disable-checkout-persist-credentials_darwin_amd64.tar.gz",
+      "checksum": "4140D1A0ED63563AA74731798B15694145EA5E13411789F609875846AEBCACFF",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/suzuki-shunsuke/disable-checkout-persist-credentials/v0.1.0/disable-checkout-persist-credentials_darwin_arm64.tar.gz",
+      "checksum": "833343886BDB38CA10995642F031C1C4E42325AB7A5AB7950A2027AEACC86465",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/suzuki-shunsuke/disable-checkout-persist-credentials/v0.1.0/disable-checkout-persist-credentials_linux_amd64.tar.gz",
+      "checksum": "93CEF4A062F1F72A21CA9D722511749F5D53C34AA923DFBC7FBE1A1A2D7F41CC",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/suzuki-shunsuke/disable-checkout-persist-credentials/v0.1.0/disable-checkout-persist-credentials_linux_arm64.tar.gz",
+      "checksum": "0968AD58C380702F8558EBB6B8489999BDBB6D3B4EE59C5AA6EBCC5382ABBDE2",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/suzuki-shunsuke/disable-checkout-persist-credentials/v0.1.0/disable-checkout-persist-credentials_windows_amd64.zip",
+      "checksum": "542487683F927198521B34FC5CA963FEE3B8C2497537B449D309AA5398148AEF",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/suzuki-shunsuke/disable-checkout-persist-credentials/v0.1.0/disable-checkout-persist-credentials_windows_arm64.zip",
+      "checksum": "2E612DB9879F45EB329B02FC60B5C0020FFF781121D85C4D571A36DF54A42575",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.284.0/registry.yaml",
+      "checksum": "4E1FEA23A79D75E54B57AB51326027DF2640A5B436996C3A7F73AD4ECC9018948AE4D9F79BD5C19429A6ABC8E89A4ED6DB6D536B90B2BB37BC02CEFE537983E7",
+      "algorithm": "sha512"
+    }
+  ]
+}
